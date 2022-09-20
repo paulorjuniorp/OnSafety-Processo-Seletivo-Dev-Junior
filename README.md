@@ -38,7 +38,7 @@ Para o desenvolvimento deste projeto foram utilizadas as ferramentas:
 3. Digitar o comando: mvn clean install;
 4. Logo após entrar na pasta target;
 5. Por fim, digitar o comando: java -jar peoplemanagement-0.0.1.jar
-O endereço da API é **``http://localhost:8081``** banco de dados é auto configurável 
+O endereço da API é **``http://localhost:8081``** e banco de dados é auto configurável. 
 
 ##Para executar a interface é necessário:
 1. Entrar na pasta onsafetyinterface;
