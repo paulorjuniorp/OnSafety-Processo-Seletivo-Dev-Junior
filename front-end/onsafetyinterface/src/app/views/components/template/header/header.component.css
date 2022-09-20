@@ -1,0 +1,15 @@
+.header{
+    height: 16%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #383838;
+    background-color: white;
+}
+
+#logo{
+    position: absolute;
+    left: 20px;
+    margin-left: 30px;
+    margin-right: 25%;
+}

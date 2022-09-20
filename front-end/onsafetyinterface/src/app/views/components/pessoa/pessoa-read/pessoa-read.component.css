@@ -1,0 +1,30 @@
+.create{
+    width: 90%;
+    margin: 10px auto;
+}
+
+.create button{
+    width: 8%;
+    margin: 1rem auto;
+    color: #90BF21;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+table {
+    width: 100%;
+}
+
+#edit{
+    color: #90BF21;
+}
+
+#delete{
+    color: #c02d2d;
+}
+
+.mat-paginator{
+    margin-bottom: 10px;
+}
