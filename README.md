@@ -38,25 +38,25 @@ Para o desenvolvimento deste projeto foram utilizadas as ferramentas:
 3. Digitar o comando: mvn clean install;
 4. Logo após entrar na pasta target;
 5. Por fim, digitar o comando: java -jar peoplemanagement-0.0.1.jar
-O banco de dados é auto configurável 
+O endereço da API é **``http://localhost:8081``** banco de dados é auto configurável 
 
 ##Para executar a interface é necessário:
 1. Entrar na pasta onsafetyinterface;
 2. Abrir a pasta no terminal, ou Windows PowerShell, ou VS Code; 
 3. Digitar o comando: npm install
 4. Por fim, digitar o comando: ng serve
+O aplicativo front-end é acessado pelo endereço **``http://localhost:4200``**
 
 # :fireworks: Interface
 ## Tela de início
 ![imagem1](https://user-images.githubusercontent.com/26314416/191150859-f3654340-5704-4d7a-976f-87f3f5009208.png)
 ## Tela de listagem dos usuários
-![imagem2](https://user-images.githubusercontent.com/26314416/191150876-435d65b3-ce9b-42a9-8d5c-1fc971e3c446.png)
+![imagem2](https://user-images.githubusercontent.com/26314416/191152063-fe010c6b-87be-49b5-b23e-1514bb7c3e79.png)
 ## Tela de cadastro
-![imagem3](https://user-images.githubusercontent.com/26314416/191150889-8cde710d-5691-4a98-9184-d7fbf6e8e765.png)
+![imagem3](https://user-images.githubusercontent.com/26314416/191152120-a77d3c04-27eb-4643-8c48-2ec56b6e4337.png)
 obs: A tela de atualização muda apenas o texto do botão de cadastro
 ## Tela de exclusão
-![imagem4](https://user-images.githubusercontent.com/26314416/191150900-70960878-f29d-4f6e-9e02-3cff51d82079.png)
-
+![imagem4](https://user-images.githubusercontent.com/26314416/191152136-6f5626e1-ea00-4e5c-ab07-b1a83e39b15d.png)
 
 # 📝Documentação
 Para documentação das API's foi utilizado o framework Swagger.
