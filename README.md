@@ -1,11 +1,11 @@
 # OnSafety-Processo-Seletivo-Dev-Junior
 Aplicação para registro de pessoas em um CRUD
 
-# OBJETIVOS
+## OBJETIVOS
 1. Desenvolver uma aplicação em JAVA Web para gestão de Pessoas;
 2. Disponibilizar o código completo do projeto em um repositório GIT;
 
-# ESPECIFICAÇÕES
+## ESPECIFICAÇÕES
 A aplicação consiste em uma API REST, com os dados persistidos em um banco de dados com
 interface que permita o CRUD dos registros.
 A aplicação deve ser capaz de auto configurar sua base na inicialização, ou deve conter um
@@ -45,6 +45,18 @@ O banco de dados é auto configurável
 2. Abrir a pasta no terminal, ou Windows PowerShell, ou VS Code; 
 3. Digitar o comando: npm install
 4. Por fim, digitar o comando: ng serve
+
+# :fireworks: Interface
+## Tela de início
+![imagem1](https://user-images.githubusercontent.com/26314416/191150859-f3654340-5704-4d7a-976f-87f3f5009208.png)
+## Tela de listagem dos usuários
+![imagem2](https://user-images.githubusercontent.com/26314416/191150876-435d65b3-ce9b-42a9-8d5c-1fc971e3c446.png)
+## Tela de cadastro
+![imagem3](https://user-images.githubusercontent.com/26314416/191150889-8cde710d-5691-4a98-9184-d7fbf6e8e765.png)
+obs: A tela de atualização muda apenas o texto do botão de cadastro
+## Tela de exclusão
+![imagem4](https://user-images.githubusercontent.com/26314416/191150900-70960878-f29d-4f6e-9e02-3cff51d82079.png)
+
 
 # 📝Documentação
 Para documentação das API's foi utilizado o framework Swagger.
